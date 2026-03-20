@@ -12,11 +12,14 @@ The database consists of three normalized tables:
 
 ## Key Insights
 
+![Create Screenshot](Create.png)
 - *Total Revenue:* Calculated aggregate sales.
+![Insert Screenshot](Insert.PNG)
 - *Top Selling Products:* Identified best performers by quantity sold.
+![Join Screenshot](Join.PNG)
 - *Customer Value:* Analyzed customer spending habits to identify top buyers.
 
-##Tools Used
+## Tools Used
 
 `SQL (SQLite syntax)`
 
