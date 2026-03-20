@@ -14,9 +14,9 @@ The database consists of three normalized tables:
 
 ![Create Screenshot](Create.png)
 - *Total Revenue:* Calculated aggregate sales.
-![Insert Screenshot](Insert.PNG)
+![Insert Screenshot](Insert.png)
 - *Top Selling Products:* Identified best performers by quantity sold.
-![Join Screenshot](Join.PNG)
+![Join Screenshot](Join.png)
 - *Customer Value:* Analyzed customer spending habits to identify top buyers.
 
 ## Tools Used
